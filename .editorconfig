@@ -1,0 +1,23 @@
+﻿[*.cs]
+
+# S1854: Unused assignments should be removed
+dotnet_diagnostic.S1854.severity = none
+
+# S4457: Parameter validation in "async"/"await" methods should be wrapped
+dotnet_diagnostic.S4457.severity = none
+
+# S125: Sections of code should not be commented out
+dotnet_diagnostic.S125.severity = none
+
+# RCS1212: Remove redundant assignment.
+dotnet_diagnostic.RCS1212.severity = none
+
+# S3358: Ternary operators should not be nested
+dotnet_diagnostic.S3358.severity = none
+
+# S2365: Properties should not make collection or array copies
+dotnet_diagnostic.S2365.severity = none
+
+# S2190: Recursion should not be infinite
+dotnet_diagnostic.S2190.severity = none
+
