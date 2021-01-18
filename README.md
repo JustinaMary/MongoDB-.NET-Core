@@ -1,3 +1,3 @@
-# Project Title
+# MongoDB C# driver 
 
-Project Description
+An application developed on .NET Core and MongoDB as the database and used MongoDB C# driver to communicate with the DB
